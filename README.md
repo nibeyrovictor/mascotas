@@ -6,5 +6,4 @@ Las **mascotas**  de hogar son animales domesticados que viven con las personas 
 
 * Victor ALberto Nibeyro
 * Gonzalo S.A. Gomez
-
-* Franco
+* Franco Castro
