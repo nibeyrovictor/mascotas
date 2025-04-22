@@ -1,0 +1,31 @@
+ Reset y Revert
+Usar git reset --soft, --mixed y --hard (simular en una rama de prueba).
+
+
+Usar git revert para deshacer un commit sin borrar el historial. ESTO DEBE QUEDAR GRABADO EN EL REPO porque se hará luego de pushear (ver clase). Por lo que no requiere captura de pantalla pero si el commit con cambios de cada user para la entrega.
+Captura de pantalla:
+Antes y después de los resets.
+
+Subir las capturas de pantalla en el repo grupal
+Carpeta: Ejercitaciones - Reset
+Nombre de archivo: juancit-perez-reset (con su nombre)
+
+
+
+ Stash y Cherry-pick
+Usar git stash para guardar cambios temporales, luego recuperarlos.
+
+
+Crear un commit útil en una rama (idea-buena) y usar git cherry-pick para llevarlo a otra rama (develop). 
+
+
+Captura de pantalla:
+
+
+Salida de git stash list y git stash pop.
+
+
+Resultado del git cherry-pick.
+Subir las capturas de pantalla en el repo grupal
+Carpeta: Ejercitaciones - StashPick 
+Nombre de archivo: juancit-perez-stash / juancit-perez-pick (con su nombre)
