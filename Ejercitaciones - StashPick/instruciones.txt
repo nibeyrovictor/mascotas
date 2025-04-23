@@ -1,0 +1,15 @@
+Stash y Cherry-pick
+Usar git stash para guardar cambios temporales, luego recuperarlos.
+
+
+Crear un commit útil en una rama (idea-buena) y usar git cherry-pick para llevarlo a otra rama (develop). 
+Captura de pantalla:
+
+
+Salida de git stash list y git stash pop.
+
+
+Resultado del git cherry-pick.
+Subir las capturas de pantalla en el repo grupal
+Carpeta: Ejercitaciones - StashPick 
+Nombre de archivo: juancit-perez-stash / juancit-perez-pick (con su nombre)
