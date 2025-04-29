@@ -11,3 +11,6 @@ Integrantes:
 * Victor ALberto Nibeyro
 * Gonzalo S.A. Gomez
 * Franco E. Castro
+
+Proyecto estático github 
+https://github.com/nibeyrovictor/WebEcomerce-mascotas
